@@ -7,7 +7,7 @@ email: na
 description: >- 
   Department of Statistics Visva-Bharati.
 baseurl: "" 
-url: "" 
+url: "https://vbstat.github.io" 
 github_username:  vbstat
 
 plugins:
