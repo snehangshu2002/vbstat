@@ -6,7 +6,7 @@ email: snehanshub@gmail.com
 facebook: "Snehangshu2002"        
 instagram: "snehangshu2002"
 linkedin: "snehangshu-bhuin-b02987279"     
-# github: ""              
+github: "snehangshu2002"              
 twitter: "snehangshu2002"
 # youtube: ""
 # mobile: ""    
