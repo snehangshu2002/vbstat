@@ -25,7 +25,7 @@ working: ""
 
 ## about me
 
-Snehanshu Bhui is a diligent and academically accomplished individual who has pursued his education in the vibrant educational environment of West Bengal, India. He attended Dubrajpur Sree Sree Sarada Vidyapith, a notable educational institution known for its commitment to academic excellence. After completing his schooling, Snehanshu Bhui embarked on a new chapter of his academic journey by enrolling at Visva Bharati University, located in the picturesque surroundings of Shantiniketan.
+Snehanshu Bhuin is a diligent and academically accomplished individual who has pursued his education in the vibrant educational environment of West Bengal, India. He attended Dubrajpur Sree Sree Sarada Vidyapith, a notable educational institution known for its commitment to academic excellence. After completing his schooling, Snehanshu Bhui embarked on a new chapter of his academic journey by enrolling at Visva Bharati University, located in the picturesque surroundings of Shantiniketan.
 
 At Visva Bharati, Snehanshu pursued a Bachelor of Science (B.Sc.) in Statistics, demonstrating his passion for the field of data analysis and quantitative research. During his time at Visva Bharati, he acquired a strong foundation in statistical methods and data analysis, earning an impressive grade of A+. His academic achievements reflect his dedication to learning and his commitment to mastering the subject matter.
 
