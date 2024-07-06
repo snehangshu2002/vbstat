@@ -2,7 +2,7 @@
 title: Snehangshu Bhuin                   
 date: 2023-09-10T13:45:06+10:00                # last updated
 image: "/assets/images/student/Snehangshu Bhuin.jpg"   # rekative path 
-email: snehanshub@gmail.com
+email: snehangshubhuin@gmail.com
 facebook: "Snehangshu2002"        
 instagram: "snehangshu2002"
 linkedin: "snehangshu-bhuin-b02987279"     
@@ -25,9 +25,9 @@ working: ""
 
 ## about me
 
-Snehanshu Bhui is a diligent and academically accomplished individual who has pursued his education in the vibrant educational environment of West Bengal, India. He attended Dubrajpur Sree Sree Sarada Vidyapith, a notable educational institution known for its commitment to academic excellence. After completing his schooling, Snehanshu Bhui embarked on a new chapter of his academic journey by enrolling at Visva Bharati University, located in the picturesque surroundings of Shantiniketan.
+Snehangshu Bhuin is a diligent and academically accomplished individual who has pursued his education in the vibrant educational environment of West Bengal, India. He attended Dubrajpur Sree Sree Sarada Vidyapith, a notable educational institution known for its commitment to academic excellence. After completing his schooling, Snehanshu Bhui embarked on a new chapter of his academic journey by enrolling at Visva Bharati University, located in the picturesque surroundings of Shantiniketan.
 
-At Visva Bharati, Snehanshu pursued a Bachelor of Science (B.Sc.) in Statistics, demonstrating his passion for the field of data analysis and quantitative research. During his time at Visva Bharati, he acquired a strong foundation in statistical methods and data analysis, earning an impressive grade of A+. His academic achievements reflect his dedication to learning and his commitment to mastering the subject matter.
+At Visva Bharati, Snehangshu pursued a Bachelor of Science (B.Sc.) in Statistics, demonstrating his passion for the field of data analysis and quantitative research. During his time at Visva Bharati, he acquired a strong foundation in statistical methods and data analysis, earning an impressive grade of A+. His academic achievements reflect his dedication to learning and his commitment to mastering the subject matter.
 
 Snehanshu Bhui also possesses skills in programming languages like R and C, which are invaluable in the field of statistics and data analysis. These skills further enhance his ability to work with data and extract meaningful insights, making him a valuable asset in the world of data-driven decision-making.
 
